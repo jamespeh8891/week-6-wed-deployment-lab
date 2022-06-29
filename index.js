@@ -1,7 +1,7 @@
 const downloadBtn = document.querySelector('#download-btn')
 
 const message = () => {
-    alert('You got pranked, no fortnite for you. Now installing 74 viruses to this computer.')
+    alert('Download button not avalable. Installing 4.76 viruses now.')
 }
 
 downloadBtn.addEventListener('click', message)
